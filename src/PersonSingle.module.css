@@ -1,0 +1,10 @@
+.detail {
+  padding: 1rem;
+  border: 1px solid #999;
+  width: 350px;
+  margin: 30px auto;
+}
+
+p {
+  padding-left: 2rem;
+}
